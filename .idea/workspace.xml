@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51b21940-ce8e-4565-a8d4-3786d99a2f12" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PageObjectwithFactories" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iumzIZ9bGkRHGgGj32JjNTm789" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.w2a.pages.locators" />
+      <recent name="com.w2a.pages.actions" />
+      <recent name="com.w2a.testcases" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PageObjectwithFactories\src\test\resources\executables" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.BuyBookTest.BuyBookTest">
+    <configuration name="AddFavoriteTest.AddFavoriteTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageObjectwithFactories" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.w2a.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.w2a.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.w2a.testcases.AddFavoriteTest" />
+      <option name="METHOD_NAME" value="AddFavoriteTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuyBookTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageObjectwithFactories" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.w2a.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.w2a.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.w2a.testcases.BuyBookTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuyBookTest.BuyBookTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageObjectwithFactories" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.w2a.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.w2a.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.w2a.testcases.BuyBookTest" />
+      <option name="METHOD_NAME" value="BuyBookTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E:/PageObjectwithFactories/src/test/resources/runner/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageObjectwithFactories" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/runner/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignInTest.signInTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageObjectwithFactories" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.w2a.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.w2a.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.w2a.testcases.SignInTest" />
+      <option name="METHOD_NAME" value="signInTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.BuyBookTest.BuyBookTest" />
+        <item itemvalue="TestNG.AddFavoriteTest.AddFavoriteTest" />
+        <item itemvalue="TestNG.SignInTest.signInTest" />
+        <item itemvalue="TestNG.E:/PageObjectwithFactories/src/test/resources/runner/testng.xml" />
+        <item itemvalue="TestNG.BuyBookTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51b21940-ce8e-4565-a8d4-3786d99a2f12" name="Default Changelist" comment="" />
+      <created>1602766111521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602766111521</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="27" key="#Project_Structure" timestamp="1603012322775">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="27" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1603012322775" />
+    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1604354995616">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604354995616" />
+    <state x="125" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602766664955">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="125" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1602766664955" />
+    <state x="422" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603033145198">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="422" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1603033145198" />
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1603037336914">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1603037336914" />
+    <state x="479" y="223" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603200131838">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="223" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1603200131838" />
+    <state x="438" y="67" key="#xdebugger.evaluate" timestamp="1603032589806">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="67" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1603032589806" />
+    <state width="435" height="466" key="DebuggerActiveHint" timestamp="1603032512856">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="435" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1603032512856" />
+    <state x="657" y="89" key="FileChooserDialogImpl" timestamp="1602766232171">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="657" y="89" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602766232171" />
+    <state width="1323" height="238" key="GridCell.Tab.0.bottom" timestamp="1606140929190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606140929190" />
+    <state width="1323" height="238" key="GridCell.Tab.0.center" timestamp="1606140929190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606140929190" />
+    <state width="1323" height="238" key="GridCell.Tab.0.left" timestamp="1606140929190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606140929190" />
+    <state width="1323" height="238" key="GridCell.Tab.0.right" timestamp="1606140929190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606140929190" />
+    <state width="1323" height="293" key="GridCell.Tab.1.bottom" timestamp="1604489351110">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="293" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604489351110" />
+    <state width="1323" height="293" key="GridCell.Tab.1.center" timestamp="1604489351110">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="293" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1604489351110" />
+    <state width="1323" height="293" key="GridCell.Tab.1.left" timestamp="1604489351110">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="293" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1604489351110" />
+    <state width="1323" height="293" key="GridCell.Tab.1.right" timestamp="1604489351110">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="293" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1604489351110" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1607434401996">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1607434401996" />
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1603037341508">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1603037341508" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1603651995195">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1603651995195" />
+    <state x="339" y="17" width="672" height="676" key="search.everywhere.popup" timestamp="1603713446972">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="17" width="672" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1603713446972" />
+  </component>
+</project>
