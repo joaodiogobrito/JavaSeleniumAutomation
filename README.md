@@ -4,7 +4,7 @@ Hi everyone,
 
 This Selenium Framework was created as a Final Project of the Udemy course: Selenium WebDriver Training with Java and Many Live Projects, Teacher Raman Arora.
 
-This build is a Maven Project compiled on InteliJ, the dependencies are included in the POM.xml. The architecture of the framework is based on Page Object Model with Page Factories with Selenium. 
+This build is a Maven Project compiled on InteliJ, the dependencies are included in the POM.xml. The architecture of the framework is based on Page Object Model with Page Factories with Selenium. The project can be checked in the master branch. 
 
 It also includes functionalities such as:
 - Excel Reader, TestNG reporting, including TestNG Annotations and Data Providers;
